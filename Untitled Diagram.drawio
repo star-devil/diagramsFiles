@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T07:18:05.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="af3C4G3OEFatHg8b07O4" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:26:04.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="7mQBWUH8Oo7C63djaIEq" version="17.2.4" type="github">
   <diagram id="q9UrEvC_dNN4-reGY-YF" name="第 1 页">
     <mxGraphModel dx="858" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,14 +19,8 @@
         <mxCell id="6W5VXJktoGSDrMuBD9_8-9" value="部门配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="6W5VXJktoGSDrMuBD9_8-6">
           <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6W5VXJktoGSDrMuBD9_8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6W5VXJktoGSDrMuBD9_8-6" source="6W5VXJktoGSDrMuBD9_8-11" target="6W5VXJktoGSDrMuBD9_8-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6W5VXJktoGSDrMuBD9_8-11" value="员工配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="6W5VXJktoGSDrMuBD9_8-6">
           <mxGeometry x="12.5" y="120" width="95" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6W5VXJktoGSDrMuBD9_8-13" value="账号配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="6W5VXJktoGSDrMuBD9_8-6">
-          <mxGeometry x="10" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6W5VXJktoGSDrMuBD9_8-15" value="资产类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="6W5VXJktoGSDrMuBD9_8-6">
           <mxGeometry x="7.5" y="345" width="100" height="60" as="geometry" />
@@ -104,6 +98,9 @@
               <mxPoint x="626" y="120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6W5VXJktoGSDrMuBD9_8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="6W5VXJktoGSDrMuBD9_8-5" source="6W5VXJktoGSDrMuBD9_8-37" target="6W5VXJktoGSDrMuBD9_8-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
